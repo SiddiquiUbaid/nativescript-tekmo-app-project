@@ -1,0 +1,7 @@
+<Page>
+    <ActionBar title="Main Page" class="action-bar"></ActionBar>
+
+    <StackLayout>
+        <Button text="Home" tap="onTap"/>
+    </StackLayout>
+</Page>

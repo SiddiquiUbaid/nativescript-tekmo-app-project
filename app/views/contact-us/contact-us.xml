@@ -1,0 +1,9 @@
+<Page>
+  <ActionBar title="Contact Us" />
+  <StackLayout>
+    <Label textWrap="true" text="to contact us, wirte below." style.fontSize="18" />
+    <TextField hint="Enter subject" style.fontSize="15" />
+    <TextView hint="Enter message" style.fontSize="15" />
+    <Button text="Submit" tap="onSubmit" />
+  </StackLayout>
+</Page>

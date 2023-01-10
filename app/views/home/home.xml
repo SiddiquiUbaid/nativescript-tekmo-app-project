@@ -1,0 +1,12 @@
+<Page loaded="onPageLoaded">
+    <ActionBar title="Home" class="action-bar"></ActionBar>
+
+    <StackLayout>
+        <Label text="Home page"/>
+        <Button text="Main" tap="onTap"/>
+        <Button text="About" tap="onAbout"/>
+        <Button text="Contact us" tap="onContact"/>
+        <Button text="Products" tap="onProduct"/>  
+       
+    </StackLayout> 
+</Page>
